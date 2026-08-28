@@ -14947,7 +14947,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1, y: 0, z: 0, w: 8.908105e-39}
+  m_BoundingSphereOverride: {x: 9.1858e-41, y: 4.591775e-39, z: 1.5641408e-24, w: 9.194e-41}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ForceVisible: 0
@@ -73797,7 +73797,7 @@ ParticleSystemRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_RenderMode: 0
+  m_RenderMode: 5
   m_MeshDistribution: 0
   m_SortMode: 0
   m_MinParticleSize: 0
@@ -103525,11 +103525,7 @@ PlayableDirector:
   m_WrapMode: 2
   m_DirectorUpdateMode: 1
   m_InitialTime: 0
-  m_SceneBindings:
-  - key: {fileID: 7380246646910340294, guid: 3111b5cbdc1e34a4889cf5ba7319cef8, type: 2}
-    value: {fileID: 1892397456}
-  - key: {fileID: -5453323135961736021, guid: 3111b5cbdc1e34a4889cf5ba7319cef8, type: 2}
-    value: {fileID: 841518181}
+  m_SceneBindings: []
   m_ExposedReferences:
     m_References:
     - 1b95ee7077e3acf478ff24a7d16e54c4: {fileID: 1892397456}
