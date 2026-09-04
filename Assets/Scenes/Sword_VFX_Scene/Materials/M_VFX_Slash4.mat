@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_VFX_Slash1
+  m_Name: M_VFX_Slash4
   m_Shader: {fileID: -6465566751694194690, guid: 7234fe8aa0021064aa787f55a8db9bf3, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -45,7 +45,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 9f18cfb927b2aec47a8cb9d383dfc8f8, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4c1bea9168641ba4f973d7457d75b4e0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -122,9 +122,9 @@ Material:
     - _DetailNormalMapScale: 1
     - _DistortionBlend: 0.5
     - _DistortionEnabled: 0
-    - _DistortionStrength: 1
+    - _DistortionStrength: -0.17
     - _DistortionStrengthScaled: 0.1
-    - _DistotionBlend: 0.06
+    - _DistotionBlend: 1
     - _DstBlend: 10
     - _DstBlendAlpha: 10
     - _EnvironmentReflections: 1
@@ -159,9 +159,9 @@ Material:
     - _BaseColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
     - _Color: {r: 2.828427, g: 2.828427, b: 2.828427, a: 1}
-    - _DistortionSize: {r: 1, g: 1, b: 0, a: 0}
+    - _DistortionSize: {r: 1, g: -0.09, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _SoftParticleData: {r: 0, g: 0, b: 0, a: 0}
+    - _SoftParticleData: {r: 0, g: 1, b: 0, a: 0}
     - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
