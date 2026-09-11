@@ -64,21 +64,22 @@ Siguiendo los pasos explicados por el profesor en clase seguimos un orden en esp
 **Objetos:**
 <br>
 
-<img width="347" height="757" alt="image" src="https://github.com/user-attachments/assets/6c6badba-02db-4256-aaa4-cb58a289e15e" />
+<img width="322" height="827" alt="image" src="https://github.com/user-attachments/assets/45f50717-dd26-4a09-86e5-95ab54e2b4bf" />
+
 
 <br>
 
 **Materiales:**
 <br>
 
-<img width="805" height="325" alt="image" src="https://github.com/user-attachments/assets/ca6bff83-64f2-4884-bd55-67b7997c0b7d" />
+<img width="967" height="260" alt="image" src="https://github.com/user-attachments/assets/77057241-0dfe-411b-8fb9-47921c2409f9" />
 
 <br>
 
 **Texturas:**
 <br>
 
-<img width="912" height="267" alt="image" src="https://github.com/user-attachments/assets/5fea8274-d114-4886-ae21-2732cd7968e6" />
+<img width="916" height="262" alt="image" src="https://github.com/user-attachments/assets/34514e4b-a771-4b73-bdae-7f8c0b6e32b1" />
 
 
 
