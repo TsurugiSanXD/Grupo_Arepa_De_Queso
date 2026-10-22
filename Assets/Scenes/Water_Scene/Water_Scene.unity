@@ -1214,15 +1214,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: baec77b5fd890844292354a791599d54, type: 3}
       propertyPath: m_LocalScale.x
-      value: 15.7
+      value: 14.1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: baec77b5fd890844292354a791599d54, type: 3}
       propertyPath: m_LocalScale.y
-      value: 16.995382
+      value: 16.5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: baec77b5fd890844292354a791599d54, type: 3}
       propertyPath: m_LocalScale.z
-      value: 16.1
+      value: 15.4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: baec77b5fd890844292354a791599d54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1271,7 +1271,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: baec77b5fd890844292354a791599d54, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 4d9098c760f49634589734c34aa0a2fb, type: 2}
+      objectReference: {fileID: 2100000, guid: 010034ac85a0a6e4b8992ca6f062941d, type: 2}
     - target: {fileID: 919132149155446097, guid: baec77b5fd890844292354a791599d54, type: 3}
       propertyPath: m_Name
       value: SM_VFX_WaterPlane_G2
