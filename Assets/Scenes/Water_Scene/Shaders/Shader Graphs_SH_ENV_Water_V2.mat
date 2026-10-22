@@ -67,6 +67,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _CrestFoamEnd: 0.055
+    - _CrestFoamStart: 0.025
     - _FoamWidth: 0.8
     - _NormalStrenght: 0.047
     - _QueueControl: 0
