@@ -119,7 +119,9 @@ El siguiente video muestra el shader funcionando en Unity y los efectos implemen
 
 
 
-https://github.com/user-attachments/assets/33487ca3-9b57-4e04-81dd-9feb756d64d9
+
+https://github.com/user-attachments/assets/cc2e3f32-8575-4c0a-98e0-3a0ceec1749b
+
 
 
 
