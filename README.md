@@ -159,4 +159,89 @@ Proyecto y demostración disponibles en este repositorio de GitHub.
 <img width="1492" height="721" alt="image" src="https://github.com/user-attachments/assets/aeda5a97-e647-4093-bc3f-573bbd854b2f" />
 
 
+# Demo Final — Computación Gráfica
+
+## Descripción del proyecto
+
+Proyecto final desarrollado en **Unity 6.3 LTS** para la asignatura de Computación Gráfica.
+
+Consiste en una demostración interactiva de tres efectos visuales (VFX), integrados con animaciones de personajes, materiales, shaders, sistemas de partículas y postprocesamiento.
+
+La aplicación cuenta con una interfaz que permite seleccionar, reproducir, pausar y reiniciar los efectos.
+
+## Efectos desarrollados
+
+### Efecto 1 — Invocación de Don Gato 
+
+Invocación de un personaje 3D mediante partículas de ketchup, destellos mágicos y una explosión de papitas al impactar contra el suelo.
+
+Incluye sistemas de partículas con mallas 3D, materiales personalizados, iluminación y sincronización con la animación del personaje.
+
+### Efecto 2 — Aura de energía 
+
+Efecto de aura energética azul alrededor del personaje, acompañado de partículas luminosas y una animación de acumulación de poder.
+
+### Efecto 3 — Cross Slash 
+
+Efecto visual de cortes de energía, integrado con una animación de ataque y sistemas de partículas.
+
+## Video demostrativo
+
+El siguiente video muestra el funcionamiento de los tres efectos, las animaciones y los controles de la interfaz.
+
+
+
+https://github.com/user-attachments/assets/2517b06b-35ce-4911-828e-410df77c4f6d
+
+
+
+## Descargar la demo
+
+https://drive.google.com/drive/folders/1MNXm3ly4myROfC5Yl3RwRHgKZFRVUQoA?usp=drive_link
+
+### Instrucciones de ejecución
+
+1. Descargar el archivo ZIP.
+2. Extraer todos los archivos en una misma carpeta.
+3. Ejecutar `CG-2026-02.exe`.
+4. Pulsar **Iniciar** en el menú principal.
+5. Seleccionar cualquiera de los tres efectos.
+6. Utilizar los controles para visualizar la demostración.
+
+**Plataforma:** Windows 64 bits.
+
+## Controles de la aplicación
+
+| Botón | Función |
+|---|---|
+| Iniciar | Acceder a la demostración |
+| Efecto 1 | Seleccionar Invocación de Don Gato |
+| Efecto 2 | Seleccionar Aura de energía |
+| Efecto 3 | Seleccionar Cross Slash |
+| Reproducir | Iniciar o continuar la reproducción |
+| Pausar | Pausar la reproducción |
+| Reiniciar | Reproducir nuevamente desde el inicio |
+
+## Organización del proyecto
+
+Los recursos necesarios para la demostración se encuentran en:
+
+`Assets/EjercicioFinal/Demo`
+
+La carpeta contiene los recursos utilizados en el desarrollo del trabajo, incluyendo escenas, scripts, modelos, animaciones, materiales, shaders, texturas y prefabs.
+
+## Herramientas y tecnologías
+
+- Unity 6.3 LTS
+- Universal Render Pipeline (URP)
+- Particle System
+- Shader Graph
+- Animator
+- TextMeshPro
+- Postprocesamiento e iluminación
+
+---
+
+**Proyecto final — Computación Gráfica — 2026**
+
 
