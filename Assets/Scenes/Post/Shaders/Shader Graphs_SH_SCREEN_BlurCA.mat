@@ -37,7 +37,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BlurStrength: -0.0022125244
+    - _BlurStrength: 0
     - _PixelOffset: 50
     m_Colors:
     - _ChannelOffsets: {r: 10, g: 20, b: 30, a: 0}
